@@ -1,0 +1,1 @@
+export default function NotFound(){return <main className="section"><p className="eyebrow">404 / OFF THE MAP</p><h1>This idea hasn't<br/>landed here.</h1><a className="button orange" href="/">Back to the playground ↗</a></main>}
